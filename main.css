@@ -1,24 +1,24 @@
-+.msg {
- +	color: red;
- +}
- +
- +.blue {
- +	color: blue;
- +}
- +
- +.hulk {
- +	font-size: 4em;
- +}
- +
- +.borderPatrol {
- +	border: 3px solid black;
- +	width: auto;
- +	padding: auto;
- +	margin: auto;
- +}
- +
- +.rounding {
- +	border-radius: 15px;
- +	width: auto;
- +	padding: auto;
- +} 
+.msg {
+	color: red;
+}
+ 
+.blue {
+	color: blue;
+}
+ 
+.hulk {
+	font-size: 4em;
+}
+ 
+.borderPatrol {
+	border: 3px solid black;
+	width: auto;
+	padding: auto;
+	margin: auto;
+}
+ 
+.rounding {
+	border-radius: 15px;
+	width: auto;
+	padding: auto;
+}

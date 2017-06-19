@@ -1,5 +1,5 @@
 console.log("Ahoy, Captain!");
- 
+
  let outputDiv = document.getElementById("output");
  
  let articleEl = document.getElementsByClassName("article-section");
